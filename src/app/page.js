@@ -24,9 +24,7 @@ function App() {
                   aria-label="Search"
                   id="search"
                 />
-                <button className="btn icon-search" type="submit">
-                  <FaSearch size={20} />
-                </button>
+                <button className="btn icon-search" type="submit"></button>
               </form>
 
               <ul className="navbar-nav w-100 justify-content-around align-items-center">
