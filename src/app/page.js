@@ -1,5 +1,3 @@
-import { FaSearch } from "react-icons/fa";
-
 function App() {
   return (
     <>
