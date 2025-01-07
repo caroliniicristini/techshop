@@ -1,7 +1,11 @@
 import React from "react";
 
 function Hero() {
-  return <div></div>;
+  return (
+    <>
+      <section className="banner-principal"></section>
+    </>
+  );
 }
 
 export default Hero;

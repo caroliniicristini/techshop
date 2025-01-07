@@ -1,15 +1,14 @@
 import Header from "@/components/Molecule/Header/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Head from "next/head";
 
-function App() {
+function page() {
   return (
     <>
       <Header />
-
-      <img src="./hero.svg" className="w-100" />
-      <img src="./playstation.svg" className="w-100" />
+      <h2>Produtos</h2>
     </>
   );
 }
 
-export default App;
+export default page;
