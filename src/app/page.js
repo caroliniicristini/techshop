@@ -1,13 +1,14 @@
+import Content from "@/components/Molecule/Content/Content";
 import Header from "@/components/Molecule/Header/Header";
+import Hero from "@/components/Molecule/Hero/Hero";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <>
       <Header />
-
-      <img src="./hero.svg" className="w-100" />
-      <img src="./playstation.svg" className="w-100" />
+      <Hero />
+      <Content />
     </>
   );
 }

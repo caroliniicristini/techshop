@@ -39,12 +39,12 @@ function Header() {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#">
-                    Sobre
+                    About Us
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#">
-                    Contato
+                    Contact Us
                   </a>
                 </li>
                 <li className="nav-item">
