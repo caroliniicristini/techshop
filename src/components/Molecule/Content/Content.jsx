@@ -105,6 +105,10 @@ function Content() {
           <div className="row">
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -115,6 +119,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -125,6 +133,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -135,6 +147,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -147,6 +163,10 @@ function Content() {
           <div className="row">
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -157,6 +177,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -167,6 +191,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -177,6 +205,10 @@ function Content() {
             </div>
             <div className="col-md-3">
               <div className="info-produtos">
+                <div className="icon-heart text-end w-100 m-3">
+                  <img src="./heart.svg" />
+                </div>
+
                 <img src="./iphone14Pro.svg" alt="Image Product" />
                 <p className="product-name">
                   Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
@@ -186,6 +218,128 @@ function Content() {
               </div>
             </div>
           </div>
+        </div>
+      </section>
+      <section className="container-fluid popular-products">
+        <div className="row">
+          <div className="col-md-3">
+            <img src="./popularProducts.svg" />
+            <div className="info-popular-products">
+              <h2>Popular Products</h2>
+              <p>
+                iPad combines a magnificent 10.2-inch Retina display, incredible
+                performance, multitasking and ease of use.
+              </p>
+              <button className="btn-shopNow-white">Shop Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <img src="./popularProducts.svg" />
+            <div className="info-popular-products">
+              <h2>Popular Products</h2>
+              <p>
+                iPad combines a magnificent 10.2-inch Retina display, incredible
+                performance, multitasking and ease of use.
+              </p>
+              <button className="btn-shopNow-white">Shop Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <img src="./popularProducts.svg" />
+            <div className="info-popular-products">
+              <h2>Popular Products</h2>
+              <p>
+                iPad combines a magnificent 10.2-inch Retina display, incredible
+                performance, multitasking and ease of use.
+              </p>
+              <button className="btn-shopNow-white">Shop Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <img src="./popularProducts.svg" />
+            <div className="info-popular-products">
+              <h2>Popular Products</h2>
+              <p>
+                iPad combines a magnificent 10.2-inch Retina display, incredible
+                performance, multitasking and ease of use.
+              </p>
+              <button className="btn-shopNow-white">Shop Now</button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="container discounts">
+        <h4>Discounts up to -50%</h4>
+        <div className="row">
+          <div className="col-md-3">
+            <div className="info-produtos">
+              <div className="icon-heart text-end w-100 m-3">
+                <img src="./heart.svg" />
+              </div>
+
+              <img src="./iphone14Pro.svg" alt="Image Product" />
+              <p className="product-name">
+                Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
+              </p>
+              <p className="price">$900</p>
+              <button>Buy Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="info-produtos">
+              <div className="icon-heart text-end w-100 m-3">
+                <img src="./heart.svg" />
+              </div>
+
+              <img src="./iphone14Pro.svg" alt="Image Product" />
+              <p className="product-name">
+                Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
+              </p>
+              <p className="price">$900</p>
+              <button>Buy Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="info-produtos">
+              <div className="icon-heart text-end w-100 m-3">
+                <img src="./heart.svg" />
+              </div>
+
+              <img src="./iphone14Pro.svg" alt="Image Product" />
+              <p className="product-name">
+                Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
+              </p>
+              <p className="price">$900</p>
+              <button>Buy Now</button>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="info-produtos">
+              <div className="icon-heart text-end w-100 m-3">
+                <img src="./heart.svg" />
+              </div>
+
+              <img src="./iphone14Pro.svg" alt="Image Product" />
+              <p className="product-name">
+                Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)
+              </p>
+              <p className="price">$900</p>
+              <button>Buy Now</button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="container-fluid banner-bigSummer p-0">
+        <img src="./banner-big-summer.svg" className="w-100" />
+        <div className="info-bannerBigSummer">
+          <h2>
+            Big Summer
+            <strong> Sale</strong>
+          </h2>
+          <br />
+          <p>Commodo fames vitae vitae leo mauris in. Eu consequat.</p>
+
+          <button className="btn-shopNow-white">Shop Now</button>
         </div>
       </section>
     </>
