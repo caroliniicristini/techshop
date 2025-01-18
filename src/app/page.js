@@ -1,6 +1,7 @@
 import Content from "@/components/Molecule/Content/Content";
 import Header from "@/components/Molecule/Header/Header";
 import Hero from "@/components/Molecule/Hero/Hero";
+import ProductSuggestions from "@/components/Organism/ProductSuggestions/ProductSuggestions";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Header />
       <Hero />
+      <ProductSuggestions />
       <Content />
     </>
   );

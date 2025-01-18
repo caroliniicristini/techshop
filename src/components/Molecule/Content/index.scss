@@ -143,15 +143,6 @@
 
 .discounts {
   margin: 100px 0;
-
-  .btn-shopNow-white {
-    background-color: transparent;
-    color: #000;
-    padding: 10px;
-    border-radius: 8px;
-    border: 1px solid;
-    min-width: 180px;
-  }
 }
 .banner-bigSummer {
   margin: 100px 0 0;
@@ -175,19 +166,6 @@
       font-size: 73px;
       letter-spacing: 1px;
       margin: 0;
-    }
-    .btn-shopNow-white {
-      background-color: transparent;
-      color: #fff;
-      padding: 10px;
-      border-radius: 8px;
-      border: 1px solid #fff;
-      min-width: 180px;
-
-      &:hover {
-        box-shadow: 0 0 8px 1px rgba(255, 255, 255, 0.7);
-        transition: all 0.3s ease;
-      }
     }
   }
 }

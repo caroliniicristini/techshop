@@ -1,0 +1,71 @@
+.sugestoes-produtos {
+  .wrapper-playstation {
+    p {
+      color: #909090;
+      font-size: 14px;
+      line-height: 24px;
+    }
+  }
+  .wrapper-airPods {
+    background: #ededed;
+
+    .info-airPods {
+      margin: 0 auto;
+
+      h2 {
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 40px;
+      }
+      p {
+        color: #909090;
+      }
+    }
+  }
+  .wrapper-appleVision {
+    background-color: #353535;
+
+    .info-appleVision {
+      color: #fff;
+      margin: 0 auto;
+
+      h2 {
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 40px;
+      }
+      p {
+        color: #909090;
+      }
+    }
+  }
+  .wrapper-macbook {
+    background-color: #ededed;
+  }
+
+  .info-macbook {
+    margin: 0 auto;
+
+    h2 {
+      font-size: 64px;
+      font-weight: 200;
+    }
+    p {
+      color: #909090;
+    }
+    button {
+      background: transparent;
+      color: #000;
+      border: 1px solid;
+      border-radius: 8px;
+      width: 180px;
+      padding: 15px;
+      font-weight: bold;
+
+      &:hover {
+        box-shadow: 0 0 8px 1px rgba(255, 255, 255, 0.7);
+        transition: all 0.3s ease;
+      }
+    }
+  }
+}
