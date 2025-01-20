@@ -1,0 +1,12 @@
+.btn-buy-now {
+  background: #000;
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  width: 50%;
+  &:hover {
+    box-shadow: 0 0 8px 1px rgba(255, 255, 255, 0.7);
+    transition: all 0.3s ease;
+  }
+}

@@ -1,0 +1,30 @@
+// DESCONTOS E BANNER SUMMER
+
+.discounts {
+  margin: 100px 0;
+}
+.banner-bigSummer {
+  margin: 100px 0 0;
+  background: linear-gradient(180deg, #2e2e2e, #000000 100%);
+  color: #fff;
+  position: relative;
+
+  .info-bannerBigSummer {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    p {
+      color: #787878;
+      font-size: 16px;
+    }
+    h2 {
+      font-weight: 200;
+      font-size: 73px;
+      letter-spacing: 1px;
+      margin: 0;
+    }
+  }
+}

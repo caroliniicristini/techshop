@@ -1,0 +1,23 @@
+// PRODUTOS POPULARES
+
+.popular-products {
+  margin: 100px 0;
+
+  .info-popular-products {
+    h2 {
+      font-weight: normal;
+    }
+    p {
+      color: #909090;
+      margin: 20px 0;
+    }
+    .btn-shopNow-white {
+      background-color: transparent;
+      color: #000;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid;
+      min-width: 180px;
+    }
+  }
+}
