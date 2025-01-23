@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.scss";
+import BotaoShopNow from "@/components/Atom/BotaoShopNow/BotaoShopNow";
 
 function BannerBigSummer() {
   return (
@@ -13,7 +14,7 @@ function BannerBigSummer() {
         <br />
         <p>Commodo fames vitae vitae leo mauris in. Eu consequat.</p>
 
-        <button className="btn-shopNow-white">Shop Now</button>
+        <BotaoShopNow className="shop-now" />
       </div>
     </section>
   );

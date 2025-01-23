@@ -18,7 +18,7 @@ function Hero() {
               </button>
             </div>
             <div className="col-md-4">
-              <img src="./banner-principal.svg" />
+              <img src="./banner-principal.svg" width="100%" />
             </div>
           </div>
         </div>

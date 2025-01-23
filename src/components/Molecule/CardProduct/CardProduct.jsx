@@ -28,7 +28,7 @@ function CardProduct() {
 
         <div className="container">
           <div className="row">
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -42,7 +42,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -56,7 +56,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -70,7 +70,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -86,7 +86,7 @@ function CardProduct() {
             </div>
           </div>
           <div className="row">
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -100,7 +100,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -114,7 +114,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />
@@ -128,7 +128,7 @@ function CardProduct() {
                 <BotaoBuyNow className="btn-buy-now" />
               </div>
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 col-sm-6">
               <div className="info-produtos">
                 <div className="icon-heart text-end w-100 m-3">
                   <img src="./heart.svg" />

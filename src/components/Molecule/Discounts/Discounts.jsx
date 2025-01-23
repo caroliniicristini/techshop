@@ -8,7 +8,7 @@ function Discounts() {
       <section className="container discounts">
         <h4>Discounts up to -50%</h4>
         <div className="row">
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-6">
             <div className="info-produtos">
               <div className="icon-heart text-end w-100 m-3">
                 <img src="./heart.svg" />
@@ -22,7 +22,7 @@ function Discounts() {
               <BotaoBuyNow className="btn-buy-now" />
             </div>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-6">
             <div className="info-produtos">
               <div className="icon-heart text-end w-100 m-3">
                 <img src="./heart.svg" />
@@ -36,7 +36,7 @@ function Discounts() {
               <BotaoBuyNow className="btn-buy-now" />
             </div>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-6">
             <div className="info-produtos">
               <div className="icon-heart text-end w-100 m-3">
                 <img src="./heart.svg" />
@@ -50,7 +50,7 @@ function Discounts() {
               <BotaoBuyNow className="btn-buy-now" />
             </div>
           </div>
-          <div className="col-md-3">
+          <div className="col-md-3 col-sm-6">
             <div className="info-produtos">
               <div className="icon-heart text-end w-100 m-3">
                 <img src="./heart.svg" />

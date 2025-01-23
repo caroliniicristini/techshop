@@ -3,7 +3,7 @@ import "./index.scss";
 
 function Categorias() {
   return (
-    <div className="categorias">
+    <div className="categorias d-none d-md-block">
       <div className="container h-100">
         <ul className="list-unstyled d-flex justify-content-between h-100 align-items-center">
           <li>
