@@ -5,7 +5,11 @@ import BotaoShopNow from "@/components/Atom/BotaoShopNow/BotaoShopNow";
 function BannerBigSummer() {
   return (
     <section className="container-fluid banner-bigSummer p-0">
-      <img src="./banner-big-summer.svg" className="w-100" />
+      <img
+        src="./banner-big-summer.svg"
+        className="w-100"
+        style={{ height: "100vh" }}
+      />
       <div className="info-bannerBigSummer">
         <h2>
           Big Summer
@@ -14,7 +18,7 @@ function BannerBigSummer() {
         <br />
         <p>Commodo fames vitae vitae leo mauris in. Eu consequat.</p>
 
-        <BotaoShopNow className="shop-now" />
+        <BotaoShopNow classe="btn-shopNow-white" />
       </div>
     </section>
   );

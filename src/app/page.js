@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Discounts from "@/components/Molecule/Discounts/Discounts";
 import Footer from "@/components/Molecule/Footer/Footer";
 import BannerBigSummer from "@/components/Molecule/BannerBig Summer/BannerBigSummer";
+import CarrosselCategorias from "@/components/Molecule/CarrosselCategorias/CarrosselCategorias";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Hero />
       <ProductSuggestions />
+      <CarrosselCategorias />
       <CardProduct />
       <PopularProducts />
       <Discounts />

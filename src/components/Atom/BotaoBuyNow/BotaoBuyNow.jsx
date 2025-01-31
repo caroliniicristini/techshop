@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.scss";
 
-function BotaoBuyNow({ classe }) {
+function BotaoBuyNow() {
   return (
     <>
       <button type="text" className="btn-buy-now">
