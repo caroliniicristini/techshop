@@ -1,7 +1,6 @@
 .sugestoes-produtos {
   .product-card {
-    display: flex;
-    align-items: center;
+    padding: 0 20px;
 
     h2 {
       font-size: 30px;
@@ -11,25 +10,27 @@
     p {
       color: #909090;
     }
-    .product-text {
-      width: 100%;
-      margin: auto;
-      margin-left: 60px;
-    }
-    .wrapper-macbook {
-      background-color: #ededed;
-    }
   }
-  .appleVision {
-    h2 {
-      color: #fff;
-    }
+
+  .product-macbook {
+    background-color: #ededed;
+  }
+
+  .bg-light-gray {
+    background-color: #ededed;
+  }
+  .bg-dark {
+    background-color: #353535;
   }
 }
 
 // mobile
 
 .sugestoes-produtos-mobile {
+
+  .wrapper-product{
+    
+  }
   .airpods {
     background-color: #ededed;
     color: #909090;

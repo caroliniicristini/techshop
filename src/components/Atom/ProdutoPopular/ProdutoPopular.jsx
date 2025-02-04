@@ -11,7 +11,7 @@ function ProdutoPopular({ imgSrc, titulo, descricao, classeBotao, corFundo }) {
       <div className="info-popular-products">
         <h2>{titulo}</h2>
         <p>{descricao}</p>
-        <BotaoShopNow classe={classeBotao} />
+        {classeBotao && <button className={classeBotao}>Shop Now</button>}
       </div>
     </div>
   );
